@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello World!</title>
+<link rel="stylesheet" href="bluestyle.css">
+</head>
+<body>
+
+    <div class="header">
+        <h1>Badanie form spędzania czasu wolnego</h1>
+      </div>
+      <hr>  <!-- separator opcjonalny, potem można to ładnej "ubrać" CSS -->
+      <div class="container">
+        <div class="formGen">
+          <h2>Pytania metryczkowe</h2>
+          <ol type="A">
+            <li>
+              <div>
+                <label for="age"><i>Podaj swój wiek</i></label>
+                <!--ankieta kierowana do pełnoletnich-->
+                <input type="number" min="18" max="99" step="1.0" name="wiek" id="age" />
+              </div>
+            </li>
+            <li>
+              <div>
+                <p><i>Wybierz płeć:</i>
+    
+                  <input type="radio" id="man" name="gender" />
+                  <label for="man">Mężczyzna</label>
+    
+                  <input type="radio" id="woman" name="gender" />
+                  <label for="woman">Kobieta</label>
+                </p>
+              </div>
+            </li>
+            <li>
+              <div>
+                <p>
+                  <label for="location">
+                    <i>Wielkość miejscowości twojego zamieszkania:</i>
+                  </label>
+                </p>
+                <select name="location" id="location">
+                  <option value="1">wieś (do 2 tys. mieszkańców)</option>
+                  <option value="2">miejscowość do 50 tys. mieszkańców</option>
+                  <option value="3">miasto od 50 tys. do 100 tys. mieszkańców</option>
+                  <option value="4">miasto od 100 tys. do 500 tys. mieszkańców</option>
+                  <option value="5">miasto powyżej 500 tys. mieszkańców</option>
+                </select>
+    
+              </div>
+            </li>
+            <!-- Wersja alternatywna dla powyższego dropdown'u -> dłuższy kod, 
+              ale być może "wygodniejszy" później dla pobierania danych -> do przekonsultowania
+    
+            <li>
+              <p><i>Wielkość miejscowości twojego zamieszkania:</i><br>
+                <input type="radio" id="ran1" name="location" />
+                <label for="ran1">wieś (do 2 tys. mieszkańców)</label>
+                <br>
+                <input type="radio" id="ran2" name="location" />
+                <label for="ran2">miasto do 50 tys. mieszkańców</label>
+                <br>
+                <input type="radio" id="ran3" name="location" />
+                <label for="ran3">miasto od 50 tys. do 100 tys. mieszkańców</label>
+                <br>
+                <input type="radio" id="ran4" name="location" />
+                <label for="ran4">miasto od 100 tys. do 500 tys. mieszkańców</label>
+                <br>
+                <input type="radio" id="ran5" name="location" />
+                <label for="ran5">miasto powyżej 500 tys. mieszkańców</label>
+              </p>
+            </li>
+            -->
+          </ol>
+        </div>
+      </div>
+      <hr>
+      <div class="container">
+        <div class="formSpareTime">
+          <h2>Pytania o formy spędzania czasu wolnego</h2>
+          <form>
+            <ol>
+              <li>
+                <div>
+                  <label for="dailySpare">
+                    <p><i>Ile czasu wolnego posiadasz dziennie?</i></p>
+                  </label>
+                  <select name="dailySpare" id="dailySpare">
+                    <option value="1">najczęściej nie mam...</option>
+                    <option value="2">0,5 h - 1 h</option>
+                    <option value="3">1,5 h - 2 h</option>
+                    <option value="4">2,5 h i więcej</option>
+                  </select>
+                </div>
+    
+              </li>
+    
+              <li>
+                <div>
+    
+                  <!-- ten div powinien (być może) być skonstruowany jak dropdown
+                     pojedynczego wyboru powyżej, ale chcę: 
+                     a) bardziej zaciekawić ankietowanego 
+                      b) poćwiczyć inną opcję -->
+    
+                  <p><i>Ile książek przeczytałeś/aś w ciągu ostatniego roku?</i></p>
+                  <input type="radio" id="few" name="books">
+                  <label for="few">1 do 3</label><br>
+                  <input type="radio" id="several" name="books">
+                  <label for="several">4 do 6</label><br>
+                  <input type="radio" id="many" name="books">
+                  <label for="many">7 albo więcej</label><br>
+                  <input type="radio" id="zero" name="books">
+                  <label for="zero">żadnej, niestety</label>
+    
+                </div>
+              </li>
+    
+              <li>
+                <div>
+    
+                  <!-- wielokrotny wybór -->
+    
+                  <p><label for="spare_time"><i>W jaki sposób spędzasz czas wolny?</label> <br> (używając
+                      CTRL + kliknięcie wybierz wszystkie pasujące odpowiedzi)</i></p>
+                  <select id="spare_time" name="qst1" size="6" multiple>
+                    <option value="1">oglądam telewizję</option>
+                    <option value="2">spotykam się z przyjaciółmi</option>
+                    <option value="3">gram na komputerze / konsoli</option>
+                    <option value="4">czytam książki</option>
+                    <option value="5">uprawiam sport</option>
+                    <option value="6">medytuję</option>
+                  </select>
+                </div>
+              </li>
+              <br>
+              <li>
+                <div>
+                  <p>
+                    <label for="hobbies"><i>Ile godzin tygodniowo poświęcasz na rozwój zainteresowań?</i></label>
+                    <!-- nie można na hobby przeznaczać więcej niż 3h dziennie -->
+                    <input type="number" min="0" max="21" step="1.0" name="qst2" id="hobbies" />
+                  </p>
+                </div>
+              </li>
+    
+              <li>
+                <div>
+                  <p>
+                    <label for="sports"><i>Ile godzin tygodniowo poświęcasz na aktywność fizyczną?</i></label>
+                    <!-- nie można na sport przeznaczać więcej niż 3h codziennie -->
+                    <input type="number" min="0" max="21" step="1.0" name="qst3" id="sports" />
+                  </p>
+                </div>
+              </li>
+    
+              <li>
+                <div>
+                  <p>
+                    <label for="friends"><i>Ile godzin tygodniowo poświęcasz na spotkania ze znajomymi?</i></label>
+                    <!-- nie można poświęcać znajomym więcej niż 3h codziennie -->
+                    <input type="number" min="0" max="21" step="1.0" name="qst4" id="friends" />
+                  </p>
+                </div>
+              </li>
+    
+              <li>
+                <div>
+                  <p>
+                    <label for="buddies"><i>Z kim zazwyczaj spędzasz wolny czas?</i></label>
+    
+                    <input type="text" id="buddies" placeholder="(np. z rodziną/ze znajomymi/sam(a))" name="qst5" rows="3"
+                      cols="50">
+    
+                  </p>
+                </div>
+              </li>
+    
+              <li>
+                <div>
+                  <p>
+                    <label for="boredom"><i>W skali 5 stopniowej określ czy często nudzisz się w czasie wolnym?</i></label>
+                    <input type="range" min="1" max="5" value="2" step="1" name="qst6" id="boredom" class="slider" />
+                  </p>
+                </div>
+              </li>
+    
+              <li>
+                <div>
+                  <p>
+                    <label for="amenities"><i>W skali 5 stopniowej określ czy Twoja miejscowość posiada wystarczająco <br>
+                        dużo atrakcji, odpowiednich do realizacji zainteresowań?</i></label>
+                    <input type="range" min="1" max="5" value="3" step="1" name="qst7" id="amenities" class="slider" />
+                  </p>
+                </div>
+              </li>
+              <br>
+    
+    
+    
+    
+    
+    
+            </ol>
+          </form>
+        </div>
+      </div>
+    
+</body>
+</html>
