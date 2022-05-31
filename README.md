@@ -18,8 +18,37 @@ Beginner Software Tester with no formal commercial experience
 * Other tools: JIRA, Confluence, TestLink, Trello
 
 ## Courses 
-
 *
+
+
+## LinkedIn Courses and Learning Paths (latest first)
+
+* 
+* 
+* 
+* 
+* [Learning Python (2020)](https://www.linkedin.com/learning/learning-python-2020)
+* [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms)
+* [Java: Testing with JUnit](https://www.linkedin.com/learning/java-testing-with-junit-14267963)
+* [Become a Software Tester - Learning Path](https://www.linkedin.com/learning/paths/become-a-software-tester)
+* [Agile Testing](https://www.linkedin.com/learning/agile-testing-2)
+* [Behavior-Driven Development](https://www.linkedin.com/learning/behavior-driven-development)
+* [Software Testing Foundations: Test Techniques](https://www.linkedin.com/learning/software-testing-foundations-test-techniques)
+* [JMeter: Performance and Load Testing](https://www.linkedin.com/learning/jmeter-performance-and-load-testing)
+* [Selenium Essential Training](https://www.linkedin.com/learning/selenium-essential-training)
+* [API Test Automation with SoapUI](https://www.linkedin.com/learning/api-test-automation-with-soapui)
+* [Software Testing Foundations: Test Preparation](https://www.linkedin.com/learning/software-testing-foundations-test-preparation)
+* [Learning Selenium](https://www.linkedin.com/learning/learning-selenium)
+* [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/programming-foundations-software-testing-qa)
+* [Scripting for Testers](https://www.linkedin.com/learning/scripting-for-testers)
+* [SQL for Testers](https://www.linkedin.com/learning/sql-for-testers)
+* [Software Testing: Exploratory Testing](https://www.linkedin.com/learning/software-testing-exploratory-testing)
+* [Learning Jira Software](https://www.linkedin.com/learning/learning-jira-software-2019)
+* [Insights on Software Quality Engineering](https://www.linkedin.com/learning/insights-on-software-quality-engineering)
+* [ISTQB Foundation Exam Prep](https://www.linkedin.com/learning/istqb-foundation-exam-prep)
+* [API Testing Foundations](https://www.linkedin.com/learning/api-testing-foundations)
+* [Test Automation Foundations](https://www.linkedin.com/learning/test-automation-foundations)
+
 
 ## Technical Books read
 
