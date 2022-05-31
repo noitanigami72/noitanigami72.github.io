@@ -6,8 +6,7 @@ Beginner Software Tester with no formal commercial experience
 ## Tools used in testing:
 
 * Chrome Dev Tools
-* [Mockaroo](https://mockaroo.com)
-
+* [Postman](https://web.postman.co/)
 ## Tech Stack
 
 * ISTQB: Foundation Level Trainee with no certificate so far;
