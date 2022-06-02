@@ -6,6 +6,7 @@ Beginner Software Tester with no formal commercial experience
 ## Tools used in testing:
 
 * Chrome Dev Tools
+* [JIRA]()
 * [Postman](https://web.postman.co/)
 ## Tech Stack
 
