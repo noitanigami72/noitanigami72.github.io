@@ -11,10 +11,9 @@ Beginner Software Tester with no formal commercial experience
 ## Tech Stack
 
 * ISTQB: Foundation Level Trainee with no certificate so far;
-* Testing: Postman, Selenium, JUnit, CSS Selectors, XPATH, Webmethods, Webservices, XML, REST
+* Testing: Postman, Selenium,
 * Databases: MySQL, MS SQL;
 * Languages: Python (intermediate), Javascript (intermediate), SQL (intermediate), Java (beginner) (all studied for the purpose of further Test Automation)
-* Frameworks: 
 * Version Control Systems: Git, Github;
 * Other tools: JIRA, Confluence, TestLink, Trello
 
@@ -24,10 +23,6 @@ Beginner Software Tester with no formal commercial experience
 
 ## LinkedIn Courses and Learning Paths (latest first)
 
-* 
-* 
-* 
-* 
 * [Learning Python (2020)](https://www.linkedin.com/learning/learning-python-2020)
 * [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms)
 * [Java: Testing with JUnit](https://www.linkedin.com/learning/java-testing-with-junit-14267963)
