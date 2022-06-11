@@ -18,7 +18,7 @@ Beginner Software Tester with no formal commercial experience
 * Other tools: JIRA, Confluence, TestLink, Trello
 
 ## Courses 
-* [Szkolenie dla QA](https://kurs.szkoleniedlaqa.pl/)
+* [Szkolenie dla QA](https://szkoleniedlaqa.pl/szkolenie)
 
 
 ## LinkedIn Courses and Learning Paths (latest first)
