@@ -2,7 +2,7 @@
 
 ## About me
 
-Beginner Software Tester with no formal commercial experience
+Beginner Software Tester
 ## Tools used in testing:
 
 * Chrome Dev Tools
