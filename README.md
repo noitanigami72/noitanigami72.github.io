@@ -29,7 +29,8 @@ great software through both manual and automatic tests
 
 ## My sandbox
 
-I have my own working domain [apptesting.pl](https://apptesting.pl/) with several apps installed to conduct various kinds of testing on them. 
+I have my own working domain [apptesting.pl](https://apptesting.pl/) with several apps installed to conduct various kinds of testing on them. This allows me to
+step out of the comfort zone of relatively simple tasks described in various tutorials and courses and work solely upon the documentation, simulate complex issues, etc.
 To date the following are available:
 * [PrestaShop](https://apptesting.pl/quadpresta/)
 * [OpenCart](https://apptesting.pl/opencart/)
@@ -83,7 +84,7 @@ To date the following are available:
 * [Software Testing Made Easy for Beginners (Project,Jira,API)](https://www.udemy.com/course/software-testing-made-easy/)
 
 
-## LinkedIn Courses and Learning Paths (latest first)
+## LinkedIn Courses and Learning Paths
 
 * [Learning Python (2020)](https://www.linkedin.com/learning/learning-python-2020)
 * [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms)
