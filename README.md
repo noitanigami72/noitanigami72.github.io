@@ -2,8 +2,10 @@
 
 ## About me
 
-I have a quality-oriented analytical mindset with the strong drive to deliver 
-great software through both manual and automatic tests
+Since I much care about the overall quality around me, in Software Quality Assurance 
+I've found finally my way of life, satisfaction of giving the best of me.
+Now in 2025 it's been 4 years that I conduct both manual and automatic tests, in teams and on my own.
+I have a quality-oriented analytical mindset with the strong drive to deliver great software.
 
 
 ## Tech Stack
