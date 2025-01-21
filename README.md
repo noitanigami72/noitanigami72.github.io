@@ -2,15 +2,15 @@
 
 ## About me
 
-Quality-oriented analytical mindset with strong drive to deliver 
-great software through manual and automatic tests
+I have a quality-oriented analytical mindset with the strong drive to deliver 
+great software through both manual and automatic tests
 
 
 ## Tech Stack
 
 * HTML, CSS, DevTools, WCAG & WAI-ARIA – proficient since they are fundamental for the job.
 * SQL (PostgreSQL, MySQL) – intermediate, practical knowledge of database queries / connections etc.
-* JIRA – upper intermediate, tool used on daily basis.
+* JIRA – upper intermediate, the tool is used on daily basis.
 * Confluence – intermediate, comfortably building documentation.
 * Testlink – intermediate, comfortably using in connection with JIRA.
 * Python – intermediate, practical skills allowing writing and maintaining test scripts.
@@ -27,11 +27,19 @@ great software through manual and automatic tests
 * Apache JMeter for performance testing, used occasionally.
 
 
-## 
+## My sandbox
+
+I have my own working domain [apptesting.pl](https://apptesting.pl/) with several apps installed to conduct various kinds of testing on them. 
+To date the following are available:
+* [PrestaShop](https://apptesting.pl/quadpresta/)
+* [OpenCart](https://apptesting.pl/opencart/)
+* [JCow Group Work](https://apptesting.pl/jcow/)
+* [Mantis](https://apptesting.pl/mantis/)
+* [Kanboard](https://apptesting.pl/kanboard/)
 
 
 ## Professional Courses 
-* [QA Bootcamp](https://szkoleniedlaqa.pl/szkolenie) – a solid theoretical and practical foundation to start the QA work.
+* [QA Bootcamp](https://szkoleniedlaqa.pl/szkolenie) – a solid theoretical and practical foundation that allowed me to kickstart the QA work.
 
 ## Udemy Courses and Learning Paths
 
@@ -102,5 +110,5 @@ great software through manual and automatic tests
 
 ## Technical Books read
 
-* [Testowanie oprogramowania. Podręcznik dla początkujących ](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm?_ga=NC.1384359092-1587824560&abpar1=desktop&abpar2=236563.1746781.&abpcid=41&abpid=11&bb_coid=3069019&bb_id=3#format/d)
+* [Testowanie oprogramowania. Podręcznik dla początkujących](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm?_ga=NC.1384359092-1587824560&abpar1=desktop&abpar2=236563.1746781.&abpcid=41&abpid=11&bb_coid=3069019&bb_id=3#format/d)
 * [Testowanie Oprogramowania](https://pwicherski.gitbook.io)
