@@ -19,10 +19,10 @@ I have a quality-oriented analytical mindset with the strong drive to deliver gr
 * Javascript / TypeScript – intermediate, applied mostly in test scrpting.
 * Git / GitHub – intermediate, practical application of version control on daily basis.
 * Playwright / Pytest with Python - advanced, currently main subject of interest. 
-* Playwright with TypeScript – upper intermediate, standalone scripting.
+* [Playwright with JS / TS] (https://github.com/noitanigami72/PlayOne) – upper intermediate, standalone scripting.
 * Cypress.io - intermediate level, standalone scripting.
-* Selenium WebDriver – strong foundations, standalone scripting.
-* Robot Framework – upper intermediate level,  subject of study / mastering now.
+* Selenium WebDriver – intermediate level, standalone scripting.
+* [Robot Framework](https://github.com/noitanigami72/ThirdRobot/tree/master/Tests) – upper intermediate level,  subject of study / mastering now.
 * Postman – intermediate level, for testing REST / SOAP protocols.
 * FastAPI – strong foundations for Python API testing.
 * Jenkins – strong foundations, CI/CD is subject of my intense study currently.
