@@ -22,7 +22,7 @@ I have a quality-oriented analytical mindset with the strong drive to deliver gr
 * Playwright with TypeScript – upper intermediate, standalone scripting.
 * Cypress.io - intermediate level, standalone scripting.
 * Selenium WebDriver – strong foundations, standalone scripting.
-* Robot Framework – intermediate level,  subject of study / mastering now.
+* Robot Framework – upper intermediate level,  subject of study / mastering now.
 * Postman – intermediate level, for testing REST / SOAP protocols.
 * FastAPI – strong foundations for Python API testing.
 * Jenkins – strong foundations, CI/CD is subject of my intense study currently.
